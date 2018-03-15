@@ -1,5 +1,5 @@
 def cats():
-    #please input code
+    print('Meow! Meow!')
 
 
 if __name__ == '__main__':

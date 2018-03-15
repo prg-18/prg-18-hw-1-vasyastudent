@@ -1,6 +1,7 @@
-def cats():
-    print('Meow! Meow!')
+def cats(hungry):
+    if hungry is True:
+        print('Meow! Meow!')
 
 
 if __name__ == '__main__':
-    cats()
+    cats(True)
